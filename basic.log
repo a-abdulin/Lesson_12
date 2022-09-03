@@ -1,0 +1,12 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2022 15:52:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2022 15:52:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2022 15:52:44] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2022 15:52:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2022 15:52:44] "[36mGET /static/img/cat.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2022 15:52:44] "[36mGET /static/img/cat_2.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2022 15:52:44] "GET /static/img/cat_3.jpeg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2022 15:52:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Sep/2022 15:52:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
